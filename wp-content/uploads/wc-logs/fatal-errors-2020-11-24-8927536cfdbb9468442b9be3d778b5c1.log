@@ -1,0 +1,75 @@
+2020-11-24T12:36:24+00:00 CRITICAL Uncaught StaticHTMLOutput\StaticHTMLOutputException: StaticHTMLOutput\StaticHTMLOutputException: BAD RESPONSE STATUS FROM API (404) in /var/www/html/wp-content/plugins/static-html-output-plugin/src/SitePublisher.php:297
+Stack trace:
+#0 /var/www/html/wp-content/plugins/static-html-output-plugin/src/GitHub.php(352): StaticHTMLOutput\SitePublisher->checkForValidResponses()
+#1 /var/www/html/wp-content/plugins/static-html-output-plugin/src/GitHub.php(117): StaticHTMLOutput\GitHub->createFileInGitHub()
+#2 /var/www/html/wp-content/plugins/static-html-output-plugin/static-html-output-plugin.php(239): StaticHTMLOutput\GitHub->upload_files()
+#3 /var/www/html/wp-includes/class-wp-hook.php(287): static_html_output_ajax()
+#4 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#5 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action()
+#6 /var/www/html/wp-admin/admin-ajax.php(176): do_action()
+#7 {main} in /var/www/html/wp-content/plugins/static-html-output-plugin/src/SitePublisher.php:282
+Sta in /var/www/html/wp-content/plugins/static-html-output-plugin/src/SitePublisher.php on line 282
+
+2020-11-24T12:41:08+00:00 CRITICAL Uncaught StaticHTMLOutput\StaticHTMLOutputException: StaticHTMLOutput\StaticHTMLOutputException: GitHub API bad response status in /var/www/html/wp-content/plugins/static-html-output-plugin/src/GitHub.php:181
+Stack trace:
+#0 /var/www/html/wp-content/plugins/static-html-output-plugin/static-html-output-plugin.php(242): StaticHTMLOutput\GitHub->test_upload()
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): static_html_output_ajax()
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action()
+#4 /var/www/html/wp-admin/admin-ajax.php(176): do_action()
+#5 {main} in /var/www/html/wp-content/plugins/static-html-output-plugin/src/GitHub.php:186
+Stack trace:
+#0 /var/www/html/wp-content/plugins/static-html-output-plugin/static-html-output-plugin.php(242): StaticHTMLOutput\GitHub->test_upload()
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): static_html_output_ajax()
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook-> in /var/www/html/wp-content/plugins/static-html-output-plugin/src/GitHub.php on line 186
+
+2020-11-24T12:43:10+00:00 CRITICAL Uncaught StaticHTMLOutput\StaticHTMLOutputException: StaticHTMLOutput\StaticHTMLOutputException: GitHub API bad response status in /var/www/html/wp-content/plugins/static-html-output-plugin/src/GitHub.php:181
+Stack trace:
+#0 /var/www/html/wp-content/plugins/static-html-output-plugin/static-html-output-plugin.php(242): StaticHTMLOutput\GitHub->test_upload()
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): static_html_output_ajax()
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action()
+#4 /var/www/html/wp-admin/admin-ajax.php(176): do_action()
+#5 {main} in /var/www/html/wp-content/plugins/static-html-output-plugin/src/GitHub.php:186
+Stack trace:
+#0 /var/www/html/wp-content/plugins/static-html-output-plugin/static-html-output-plugin.php(242): StaticHTMLOutput\GitHub->test_upload()
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): static_html_output_ajax()
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook-> in /var/www/html/wp-content/plugins/static-html-output-plugin/src/GitHub.php on line 186
+
+2020-11-24T12:43:25+00:00 CRITICAL Uncaught StaticHTMLOutput\StaticHTMLOutputException: StaticHTMLOutput\StaticHTMLOutputException: BAD RESPONSE STATUS FROM API (404) in /var/www/html/wp-content/plugins/static-html-output-plugin/src/SitePublisher.php:297
+Stack trace:
+#0 /var/www/html/wp-content/plugins/static-html-output-plugin/src/GitHub.php(352): StaticHTMLOutput\SitePublisher->checkForValidResponses()
+#1 /var/www/html/wp-content/plugins/static-html-output-plugin/src/GitHub.php(117): StaticHTMLOutput\GitHub->createFileInGitHub()
+#2 /var/www/html/wp-content/plugins/static-html-output-plugin/static-html-output-plugin.php(239): StaticHTMLOutput\GitHub->upload_files()
+#3 /var/www/html/wp-includes/class-wp-hook.php(287): static_html_output_ajax()
+#4 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#5 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action()
+#6 /var/www/html/wp-admin/admin-ajax.php(176): do_action()
+#7 {main} in /var/www/html/wp-content/plugins/static-html-output-plugin/src/SitePublisher.php:282
+Sta in /var/www/html/wp-content/plugins/static-html-output-plugin/src/SitePublisher.php on line 282
+
+2020-11-24T12:44:11+00:00 CRITICAL Uncaught StaticHTMLOutput\StaticHTMLOutputException: StaticHTMLOutput\StaticHTMLOutputException: BAD RESPONSE STATUS FROM API (404) in /var/www/html/wp-content/plugins/static-html-output-plugin/src/SitePublisher.php:297
+Stack trace:
+#0 /var/www/html/wp-content/plugins/static-html-output-plugin/src/GitHub.php(352): StaticHTMLOutput\SitePublisher->checkForValidResponses()
+#1 /var/www/html/wp-content/plugins/static-html-output-plugin/src/GitHub.php(117): StaticHTMLOutput\GitHub->createFileInGitHub()
+#2 /var/www/html/wp-content/plugins/static-html-output-plugin/static-html-output-plugin.php(239): StaticHTMLOutput\GitHub->upload_files()
+#3 /var/www/html/wp-includes/class-wp-hook.php(287): static_html_output_ajax()
+#4 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#5 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action()
+#6 /var/www/html/wp-admin/admin-ajax.php(176): do_action()
+#7 {main} in /var/www/html/wp-content/plugins/static-html-output-plugin/src/SitePublisher.php:282
+Sta in /var/www/html/wp-content/plugins/static-html-output-plugin/src/SitePublisher.php on line 282
+
+2020-11-24T12:45:47+00:00 CRITICAL Uncaught StaticHTMLOutput\StaticHTMLOutputException: StaticHTMLOutput\StaticHTMLOutputException: GitHub API bad response status in /var/www/html/wp-content/plugins/static-html-output-plugin/src/GitHub.php:181
+Stack trace:
+#0 /var/www/html/wp-content/plugins/static-html-output-plugin/static-html-output-plugin.php(242): StaticHTMLOutput\GitHub->test_upload()
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): static_html_output_ajax()
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters()
+#3 /var/www/html/wp-includes/plugin.php(478): WP_Hook->do_action()
+#4 /var/www/html/wp-admin/admin-ajax.php(176): do_action()
+#5 {main} in /var/www/html/wp-content/plugins/static-html-output-plugin/src/GitHub.php:186
+Stack trace:
+#0 /var/www/html/wp-content/plugins/static-html-output-plugin/static-html-output-plugin.php(242): StaticHTMLOutput\GitHub->test_upload()
+#1 /var/www/html/wp-includes/class-wp-hook.php(287): static_html_output_ajax()
+#2 /var/www/html/wp-includes/class-wp-hook.php(311): WP_Hook-> in /var/www/html/wp-content/plugins/static-html-output-plugin/src/GitHub.php on line 186
+
