@@ -6,7 +6,7 @@
 <link rel="profile" href="https://gmpg.org/xfn/11">
 
 <script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
-<title>fractalreports &#8211; Just another WordPress site</title>
+<title>fractalreports &#8211; Research Reports</title>
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
 <link href='https://fonts.gstatic.com' crossorigin rel='preconnect' />
@@ -14,31 +14,21 @@
 <link rel="alternate" type="application/rss+xml" title="fractalreports &raquo; Comments Feed" href="http://localhost/index.php/comments/feed/" />
 <link rel='stylesheet' id='wp-block-library-css'  href='http://localhost/wp-includes/css/dist/block-library/style.min.css?ver=5.5.3' media='all' />
 <link rel='stylesheet' id='wp-block-library-theme-css'  href='http://localhost/wp-includes/css/dist/block-library/theme.min.css?ver=5.5.3' media='all' />
-<link rel='stylesheet' id='wc-block-vendors-style-css'  href='http://localhost/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/vendors-style.css?ver=3.6.0' media='all' />
-<link rel='stylesheet' id='wc-block-style-css'  href='http://localhost/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/style.css?ver=3.6.0' media='all' />
-<link rel='stylesheet' id='woocommerce-layout-css'  href='http://localhost/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=4.7.0' media='all' />
-<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='http://localhost/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=4.7.0' media='only screen and (max-width: 768px)' />
-<link rel='stylesheet' id='woocommerce-general-css'  href='//localhost/wp-content/plugins/woocommerce/assets/css/twenty-seventeen.css?ver=4.7.0' media='all' />
-<style id='woocommerce-inline-inline-css'>
-.woocommerce form .form-row .required { visibility: visible; }
-</style>
 <link rel='stylesheet' id='twentyseventeen-fonts-css'  href='https://fonts.googleapis.com/css?family=Libre+Franklin%3A300%2C300i%2C400%2C400i%2C600%2C600i%2C800%2C800i&#038;subset=latin%2Clatin-ext&#038;display=fallback' media='all' />
 <link rel='stylesheet' id='twentyseventeen-style-css'  href='http://localhost/wp-content/themes/twentyseventeen/style.css?ver=20190507' media='all' />
 <link rel='stylesheet' id='twentyseventeen-block-style-css'  href='http://localhost/wp-content/themes/twentyseventeen/assets/css/blocks.css?ver=20190105' media='all' />
 <!--[if lt IE 9]>
 <link rel='stylesheet' id='twentyseventeen-ie8-css'  href='http://localhost/wp-content/themes/twentyseventeen/assets/css/ie8.css?ver=20161202' media='all' />
 <![endif]-->
-<script src='http://localhost/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
 <!--[if lt IE 9]>
 <script src='http://localhost/wp-content/themes/twentyseventeen/assets/js/html5.js?ver=20161020' id='html5-js'></script>
 <![endif]-->
+<script src='http://localhost/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
 <link rel="https://api.w.org/" href="http://localhost/index.php/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 5.5.3" />
-<meta name="generator" content="WooCommerce 4.7.0" />
-	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-	<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
 
-<body class="home blog wp-embed-responsive theme-twentyseventeen woocommerce-no-js hfeed has-header-image has-sidebar colors-light">
+<body class="home blog wp-embed-responsive hfeed has-header-image has-sidebar colors-light">
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
@@ -56,7 +46,7 @@
 		<div class="site-branding-text">
 							<h1 class="site-title"><a href="http://localhost/" rel="home">fractalreports</a></h1>
 			
-							<p class="site-description">Just another WordPress site</p>
+							<p class="site-description">Research Reports</p>
 					</div><!-- .site-branding-text -->
 
 				<a href="#content" class="menu-scroll-down"><svg class="icon icon-arrow-right" aria-hidden="true" role="img"> <use href="#icon-arrow-right" xlink:href="#icon-arrow-right"></use> </svg><span class="screen-reader-text">Scroll down to content</span></a>
@@ -82,6 +72,23 @@
 		<main id="main" class="site-main" role="main">
 
 			
+<article id="post-24" class="post-24 post type-post status-publish format-standard hentry category-uncategorized">
+		<header class="entry-header">
+		<div class="entry-meta"><span class="screen-reader-text">Posted on</span> <a href="http://localhost/index.php/2020/11/25/checking-this-page/" rel="bookmark"><time class="entry-date published updated" datetime="2020-11-25T16:43:15+00:00">November 25, 2020</time></a></div><!-- .entry-meta --><h3 class="entry-title"><a href="http://localhost/index.php/2020/11/25/checking-this-page/" rel="bookmark">Checking this Page</a></h3>	</header><!-- .entry-header -->
+
+	
+	<div class="entry-content">
+		
+<p>Neww updatedlll</p>
+
+
+
+<figure class="wp-block-image size-large"><img loading="lazy" width="275" height="183" src="http://localhost/wp-content/uploads/2020/11/index.jpeg" alt="" class="wp-image-25"/></figure>
+	</div><!-- .entry-content -->
+
+	
+</article><!-- #post-24 -->
+
 <article id="post-1" class="post-1 post type-post status-publish format-standard hentry category-uncategorized">
 		<header class="entry-header">
 		<div class="entry-meta"><span class="screen-reader-text">Posted on</span> <a href="http://localhost/index.php/2020/11/23/hello-world/" rel="bookmark"><time class="entry-date published updated" datetime="2020-11-23T21:29:31+00:00">November 23, 2020</time></a></div><!-- .entry-meta --><h3 class="entry-title"><a href="http://localhost/index.php/2020/11/23/hello-world/" rel="bookmark">Hello world!</a></h3>	</header><!-- .entry-header -->
@@ -112,6 +119,9 @@
 		<section id="recent-posts-2" class="widget widget_recent_entries">
 		<h2 class="widget-title">Recent Posts</h2>
 		<ul>
+											<li>
+					<a href="http://localhost/index.php/2020/11/25/checking-this-page/">Checking this Page</a>
+									</li>
 											<li>
 					<a href="http://localhost/index.php/2020/11/23/hello-world/">Hello world!</a>
 									</li>
@@ -160,27 +170,6 @@
 		</footer><!-- #colophon -->
 	</div><!-- .site-content-contain -->
 </div><!-- #page -->
-	<script type="text/javascript">
-		(function () {
-			var c = document.body.className;
-			c = c.replace(/woocommerce-no-js/, 'woocommerce-js');
-			document.body.className = c;
-		})()
-	</script>
-	<script src='http://localhost/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70' id='jquery-blockui-js'></script>
-<script id='wc-add-to-cart-js-extra'>
-var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/localhost\/index.php\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
-</script>
-<script src='http://localhost/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=4.7.0' id='wc-add-to-cart-js'></script>
-<script src='http://localhost/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4' id='js-cookie-js'></script>
-<script id='woocommerce-js-extra'>
-var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%"};
-</script>
-<script src='http://localhost/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=4.7.0' id='woocommerce-js'></script>
-<script id='wc-cart-fragments-js-extra'>
-var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","cart_hash_key":"wc_cart_hash_2396399d761d3832b202bf7d052211dd","fragment_name":"wc_fragments_2396399d761d3832b202bf7d052211dd","request_timeout":"5000"};
-</script>
-<script src='http://localhost/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=4.7.0' id='wc-cart-fragments-js'></script>
 <script id='twentyseventeen-skip-link-focus-fix-js-extra'>
 var twentyseventeenScreenReaderText = {"quote":"<svg class=\"icon icon-quote-right\" aria-hidden=\"true\" role=\"img\"> <use href=\"#icon-quote-right\" xlink:href=\"#icon-quote-right\"><\/use> <\/svg>"};
 </script>
